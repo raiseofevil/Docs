@@ -325,7 +325,7 @@
       uid: signalr/version-differences
     - name: WebSockets without SignalR
       uid: fundamentals/websockets
-- name: gRPC
+- name: Remote Procedure Call apps
   items:
     - name: Overview
       uid: grpc/index
